@@ -1,0 +1,16 @@
+PODS:
+  - MYItemOne (0.1.1)
+
+DEPENDENCIES:
+  - MYItemOne (from `../`)
+
+EXTERNAL SOURCES:
+  MYItemOne:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MYItemOne: de616d8d52f4e70a856ccd34a9742a9933214f2a
+
+PODFILE CHECKSUM: 417e24b0138a0595b2262dda0bdae0a7460f39b7
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,6 @@
+framework module MYItemOne {
+  umbrella header "MYItemOne-umbrella.h"
+
+  export *
+  module * { export * }
+}
